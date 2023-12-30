@@ -1,0 +1,15 @@
+{
+  "name": "mega-backend",
+  "version": "1.0.0",
+  "description": "a backend project using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "vinod mehta",
+  "license": "ISC"
+}
